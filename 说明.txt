@@ -1,1 +1,4 @@
+bt6
 yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/smithmuch/bt/master/install_6.0.sh && sh install.sh
+bt5.9
+yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/smithmuch/bt/master/install5.sh && sh install.sh
